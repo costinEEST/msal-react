@@ -1,0 +1,1 @@
+- Start the development server on port 3000: `npm run dev -- --port 3000` (https://koenwoortman.com/vitejs-run-dev-server-on-different-port)
